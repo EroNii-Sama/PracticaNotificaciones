@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725593829588",
+    "project_id": "notificacionesandroid-7e0f2",
+    "storage_bucket": "notificacionesandroid-7e0f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725593829588:android:7d6f56c88516ec2cc3cb41",
+        "android_client_info": {
+          "package_name": "com.moviles.practicanotificaciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725593829588-tmvu2l5ckhh8pjhm7p55ovchuikcterg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIYNealLsRGsPu2ppPoQ289a-UW1ufCl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725593829588-tmvu2l5ckhh8pjhm7p55ovchuikcterg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
